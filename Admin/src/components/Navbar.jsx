@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+import { Link, NavLink } from 'react-router-dom'
 const Navbar = () => (
   <div className="navbar bg-base-200 shadow-sm   ">
   <div className="flex-1">
@@ -27,12 +27,12 @@ const Navbar = () => (
             <span className="badge">New</span>
           </a>
         </li>
-        <Link to={'/register'}>
-        <li><a>Register</a></li>
-        </Link>
-        <Link to={'/login'}>
-        <li><a>Login</a></li>
-        </Link>
+        <NavLink to={'/register'}>
+        <li>Register</li>
+        </NavLink>
+        <NavLink to={'/login'}>
+        <li>Login</li>
+        </NavLink>
       </ul>
     </div>
   </div>

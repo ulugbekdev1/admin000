@@ -11,7 +11,6 @@ const Sidebar = () => {
 
           <Link to={'xizmatlar'} className="block w-full text-white px-4 py-2 rounded hover: font-medium">Xizmatlar</Link>
           <div>
-           <img src="" alt="" />
           <Link to={'statistika'} className="block w-full text-white  px-4 py-2 rounded hover: font-medium">Statistika</Link>
           </div>
         </nav>
