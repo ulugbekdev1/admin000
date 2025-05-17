@@ -1,0 +1,557 @@
+{
+  "students": [
+    {
+      "id": "b357",
+      "fullName": "Ahadov Samad",
+      "faculty": "Kiberxavfsizlik",
+      "phone": "+998 91 474 34 35",
+      "serviceType": "Oʻquv varaqa taqdim etish",
+      "status": "Xodim biriktirilgan",
+      "employers": "9",
+      "createdAt": "2025-04-29/05:41"
+    },
+    {
+      "id": "586f",
+      "fullName": "sadfswadf",
+      "faculty": "Kiberxavfsizlik",
+      "phone": "+998 95 525 33 13",
+      "serviceType": "Xalqaro reytinglar toʻgʻrisida maʼlumot berish",
+      "status": "Tayyor",
+      "employers": "8",
+      "createdAt": "2025-04-29/10:05"
+    },
+    {
+      "id": "84a2",
+      "fullName": "VAli Ali",
+      "faculty": "Kiberxavfsizlik",
+      "phone": "+998 91 474 34 35",
+      "serviceType": "“El-yurt umidi” jamgʻarmasi va xorijiy e’lonlar haqida maʼlumot",
+      "status": "Rad etilgan",
+      "employers": "5",
+      "createdAt": "2025-04-29/10:06"
+    },
+    {
+      "id": "5bb6",
+      "fullName": "Ochilov Shaxzod",
+      "faculty": "Kiberxavfsizlik",
+      "phone": "+998 88 338 20 06",
+      "serviceType": "Oʻquv varaqa taqdim etish",
+      "createdAt": "2025-04-29/11:18",
+      "status": "Rad etilgan",
+      "employers": ""
+    },
+    {
+      "id": "8096",
+      "fullName": "sadfswadf",
+      "faculty": "Kiberxavfsizlik",
+      "phone": "+998 90 474 34 36",
+      "serviceType": "Talabalik guvohnomasini tayyorlash va topshirish",
+      "createdAt": "2025-04-29/11:18",
+      "status": "Tayyor",
+      "employers": ""
+    },
+    {
+      "id": "05ba",
+      "fullName": "sadfswadf",
+      "faculty": "Kiberxavfsizlik",
+      "phone": "+998 90 474 34 35",
+      "serviceType": "Oʻzlashtirish ko‘rsatkichlari haqida maʼlumot taqdim etish",
+      "createdAt": "2025-04-29/12:13",
+      "status": "Tayyor",
+      "employers": ""
+    },
+    {
+      "id": "1784",
+      "fullName": "Ochilov Shaxzod",
+      "faculty": "Kiberxavfsizlik",
+      "phone": "+998 88 338 20 06",
+      "serviceType": "Turli xil maʼlumotnomalar berish (oʻqish joyidan, harbiy boʻlimdan, v.b.)",
+      "status": "Tayyor",
+      "employers": "",
+      "createdAt": "2025-04-30/10:06"
+    },
+    {
+      "id": "9892",
+      "fullName": "Ahmedov Odil",
+      "faculty": "Telekomunikatsiya",
+      "phone": "+998 95 525 33 13",
+      "serviceType": "Axborot tizimlarida parolni tiklash",
+      "createdAt": "2025-04-30 15:20",
+      "status": "Jarayonda",
+      "employers": "14"
+    },
+    {
+      "id": "0f27",
+      "fullName": "VAli Ali",
+      "faculty": "Kiberxavfsizlik",
+      "phone": "+998 90 474 34 35",
+      "serviceType": "Oʻzlashtirish ko‘rsatkichlari haqida maʼlumot taqdim etish",
+      "createdAt": "2025-05-01 14:49",
+      "status": "Jarayonda",
+      "employers": ""
+    },
+    {
+      "id": "5edc",
+      "fullName": "VAli Ali",
+      "faculty": "Kiberxavfsizlik",
+      "phone": "+998 95 525 33 13",
+      "serviceType": "Ikkinchi taʼlimga kirish uchun onlayn ariza topshirishga koʻmaklashish",
+      "status": "Jarayonda",
+      "employers": "3",
+      "createdAt": "2025-05-02/17:55"
+    },
+    {
+      "id": "9aed",
+      "fullName": "Salomov Alik",
+      "faculty": "Telekom",
+      "phone": "+998955553333",
+      "serviceType": "Oʻquv varaqa taqdim etish",
+      "status": "Jarayonda",
+      "employers": "7",
+      "createdAt": "2025-05-03/09:11"
+    }
+  ],
+  "employees": [
+    {
+      "id": "1",
+      "name": "Usmonov Akbar Ibrohim o‘g‘li",
+      "job": "O'qituvchi",
+      "post": ""
+    },
+    {
+      "id": "2",
+      "name": "Abdullayev Islom G‘ayrat o‘g‘li",
+      "job": "Dekanat xodimi",
+      "post": ""
+    },
+    {
+      "id": "3",
+      "name": "Abdullayev Asliddin Nabi og'li",
+      "job": "Markaz rahbari",
+      "post": ""
+    },
+    {
+      "id": "4",
+      "name": "Hamroyeva Dilnoza Najmiddinovna",
+      "job": "Markaz rahbari",
+      "post": ""
+    },
+    {
+      "id": "5",
+      "name": "Jumayeva Gulnoza Ko'chimboyevna",
+      "job": "Markaz rahbari",
+      "post": ""
+    },
+    {
+      "id": "6",
+      "name": "Sattarova Zuhra Abirqul qizi",
+      "job": "Markaz rahbari",
+      "post": ""
+    },
+    {
+      "id": "7",
+      "name": "Ismatov Nozir Nosir o‘g‘li",
+      "job": "Markaz rahbari",
+      "post": ""
+    },
+    {
+      "id": "8",
+      "name": "Rejabov Jalol Sadiq o‘g‘li",
+      "job": "Markaz rahbari",
+      "post": ""
+    },
+    {
+      "id": "9",
+      "name": "Xamidullayev Abdulbosit Xamdam o‘g‘l",
+      "job": "Markaz rahbari",
+      "post": ""
+    },
+    {
+      "id": "10",
+      "name": "Urazi‘mbetova Ayzada Kuo‘atbay qizi",
+      "job": "Markaz rahbari",
+      "post": ""
+    },
+    {
+      "id": "11",
+      "name": "Zokirxo‘jayev Bilolxo‘ja Olim o‘g‘l",
+      "job": "Markaz rahbari",
+      "post": ""
+    },
+    {
+      "id": "12",
+      "name": "Sadullayev Asadullo Amriddin o‘g‘li",
+      "job": "Markaz rahbari",
+      "post": ""
+    },
+    {
+      "id": "13",
+      "name": "Teshayev Rustam Nurali o‘g‘li",
+      "job": "Markaz rahbari",
+      "post": ""
+    },
+    {
+      "id": "14",
+      "name": "Kaxarov Sirojiddin Rustamali o‘g‘li",
+      "job": "Markaz rahbari",
+      "post": ""
+    }
+  ],
+  "services": [
+    {
+      "id": "2",
+      "name": "Bitiruvchilarga diplomlarni tarqatish",
+      "type": "bepul",
+      "category": "Akademik"
+    },
+    {
+      "id": "3",
+      "name": "Akademik maʼlumotnoma va transkript berish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "4",
+      "name": "Akademik mobillik asosida boshqa oliy taʼlim tashkilotiga ketgan talabalarning hujjatlarini rasmiylashtirish",
+      "type": "bepul",
+      "category": "Xalqaro aloqalar"
+    },
+    {
+      "id": "5",
+      "name": "Bitiruvchi talabalar uchun aylanma varaqa yaratish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "6",
+      "name": "Diplom dublikatini olish uchun ariza yuborishga koʻmaklashish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "7",
+      "name": "Oʻqishni koʻchirish va qayta tiklash uchun ariza yuborishga koʻmaklashish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "8",
+      "name": "Ikkinchi taʼlimga kirish uchun onlayn ariza topshirishga koʻmaklashish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "9",
+      "name": "Magistraturaga kirish uchun onlayn ariza topshirishga koʻmaklashish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "10",
+      "name": "Diplom maʼlumotlarini qoʻshish yoki tahrirlash bo‘yicha ariza yuborishga koʻmaklashish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "11",
+      "name": "GPA haqida maʼlumotnoma taqdim etish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "12",
+      "name": "Talaba hujjatlarini arxivga topshirish",
+      "type": "bepul",
+      "category": "Muddat"
+    },
+    {
+      "id": "13",
+      "name": "Qayta oʻqish uchun ariza berishga koʻmaklashish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "14",
+      "name": "Turli xil maʼlumotnomalar berish (oʻqish joyidan, harbiy boʻlimdan, v.b.)",
+      "type": "bepul",
+      "category": "Muddat"
+    },
+    {
+      "id": "15",
+      "name": "Oʻquv varaqa taqdim etish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "16",
+      "name": "Oʻzlashtirish ko‘rsatkichlari haqida maʼlumot taqdim etish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "17",
+      "name": "Axborot tizimlarida parolni tiklash",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "18",
+      "name": "Tyutorlar tomonidan kiritilgan maʼlumotlarni tahrirlash",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "19",
+      "name": "Talabalik guvohnomasini tayyorlash va topshirish",
+      "type": "bepul",
+      "category": "Muddat"
+    },
+    {
+      "id": "20",
+      "name": "Boshqa guruhga oʻtkazish",
+      "type": "bepul",
+      "category": "Muddat"
+    },
+    {
+      "id": "21",
+      "name": "Oʻquv dasturlari haqida maʼlumot berish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "22",
+      "name": "Dars jadvallari haqida maʼlumot berish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "23",
+      "name": "Qayta oʻqish uchun ariza yuborishga yordam berish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "24",
+      "name": "Joriy, oraliq va yakuniy nazoratlar haqida maʼlumot berish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "25",
+      "name": "Imtihonlar ro‘yxatini taqdim etish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "26",
+      "name": "Qo‘shma ta’lim dasturlari haqida ma’lumot va targ‘ibot",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "27",
+      "name": "“El-yurt umidi” jamgʻarmasi va xorijiy e’lonlar haqida maʼlumot",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "28",
+      "name": "Xalqaro reytinglar toʻgʻrisida maʼlumot berish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "29",
+      "name": "Xorijiy tillarni oʻrganish kurslari haqida maʼlumot",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "30",
+      "name": "Ijara subsidiyasi uchun ariza yozishga koʻmaklashish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "31",
+      "name": "Yotoqxona arizalariga koʻmaklashish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "32",
+      "name": "Ingliz tilida o‘qish joyidan maʼlumotnoma berish",
+      "type": "bepul",
+      "category": "Muddat"
+    },
+    {
+      "id": "33",
+      "name": "Xalqaro grantlar va akademik mobillik haqida maʼlumot",
+      "type": "bepul",
+      "category": "Muddat"
+    },
+    {
+      "id": "34",
+      "name": "Xorijlik talabalarni tizimda ro‘yxatga olish va fanlarga biriktirish",
+      "type": "bepul",
+      "category": "Muddat"
+    },
+    {
+      "id": "35",
+      "name": "Xorijlik talabalar uchun to‘lov-shartnomalar",
+      "type": "bepul",
+      "category": "Muddat"
+    },
+    {
+      "id": "36",
+      "name": "Xorijlik talabalarga o‘quv jarayoni haqida maʼlumot",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "37",
+      "name": "Qayta oʻqishga shartnoma berish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "38",
+      "name": "Stipendiya haqida maʼlumotnoma berish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "39",
+      "name": "Hisob varagʻini shakllantirish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "40",
+      "name": "Toʻlov-shartnoma olish uchun arizaga koʻmaklashish",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "41",
+      "name": "Yotoqxona shartnomasi bo‘yicha qarzdorlik/haqdorlik haqida maʼlumot",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "42",
+      "name": "Qayta oʻqish shartnomasi bo‘yicha qarzdorlik/haqdorlik haqida maʼlumot",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "43",
+      "name": "Toʻlov-shartnomasi bo‘yicha qarzdorlik/haqdorlik haqida maʼlumot",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "44",
+      "name": "To‘lov-shartnoma summasi haqida maʼlumot",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "45",
+      "name": "Qayta oʻzlashtirish bo‘yicha toʻlov miqdorlarini aniqlash va tasdiqlash",
+      "type": "bepul",
+      "category": "Muddat"
+    },
+    {
+      "id": "46",
+      "name": "Grantlar va tanlovlar haqida maʼlumot",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "47",
+      "name": "Ilmiy konferensiyalar haqida maʼlumot",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "48",
+      "name": "Nomdor stipendiyalar haqida maʼlumot",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": "49",
+      "name": "O‘qishga qabul va koʻchirish yuzasidan konsultatsiya",
+      "type": "bepul",
+      "category": "Joyida"
+    },
+    {
+      "id": 51,
+      "name": "Talabalarning hujjatlaridan “asliga to‘g‘ri” shtampi bilan tasdiqlangan nusxalar",
+      "price": "BHM ning 10 foizi",
+      "type": "pullik",
+      "category": "Pullik xizmatlar"
+    },
+    {
+      "id": 52,
+      "name": "“Credit recognition” ma’lumotnomasini berish",
+      "price": "BHM ning 30 foizi",
+      "type": "pullik",
+      "category": "Pullik xizmatlar"
+    },
+    {
+      "id": 53,
+      "name": "Universitetni bitirganlar uchun transcript (ingliz tilida)",
+      "price": "BHM ning 30 foizi",
+      "type": "pullik",
+      "category": "Pullik xizmatlar"
+    },
+    {
+      "id": 54,
+      "name": "Universitetni bitirganlar uchun transcript (o‘zbek tilida)",
+      "price": "BHM ning 20 foizi",
+      "type": "pullik",
+      "category": "Pullik xizmatlar"
+    },
+    {
+      "id": 55,
+      "name": "Joriy talabalar uchun ingliz tilida transcript",
+      "price": "BHM ning 30 foizi",
+      "type": "pullik",
+      "category": "Pullik xizmatlar"
+    },
+    {
+      "id": 56,
+      "name": "Arxiv ma’lumotnoma (bitiruvchilar uchun)",
+      "price": "BHM ning 20 foizi",
+      "type": "pullik",
+      "category": "Pullik xizmatlar"
+    },
+    {
+      "id": 57,
+      "name": "Xorijiy universitet va tashkilotlar uchun ma’lumotnoma (bitiruvchilar va talabalar uchun)",
+      "price": "BHM ning 20 foizi",
+      "type": "pullik",
+      "category": "Pullik xizmatlar"
+    },
+    {
+      "id": 58,
+      "name": "O‘quv dasturi (curriculum) dan ko‘chirma berish",
+      "price": "BHM ning 50 foizi",
+      "type": "pullik",
+      "category": "Pullik xizmatlar"
+    },
+    {
+      "id": 59,
+      "name": "Sillabuslardan ko‘chirma (bitirganlar uchun)",
+      "price": "BHM ning 50 foizi",
+      "type": "pullik",
+      "category": "Pullik xizmatlar"
+    },
+    {
+      "id": "7c60",
+      "name": "sasdc"
+    }
+  ]
+}
